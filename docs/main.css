@@ -1,0 +1,17 @@
+#toStart0:hover { background-color: #000000; color: antiquewhite }
+
+#toStranger1:hover { background-color: #000000; color: antiquewhite }
+
+#toFriends2:hover { background-color: #f2b0ad; }
+
+#toLovers3:hover { background-color: #c6b9a9 }
+
+#Strangers4:hover { background-color: #b1b1b1 ; cursor: pointer; }
+
+#toCompanions5:hover { background-color: #8ab6a5 ; cursor: pointer; }
+
+#toDeath6:hover { background-color: #484848; color: aliceblue ; cursor: pointer; }
+
+#help:hover { background-color:transparent ; cursor: pointer; }
+
+#Duality:hover { background-color:transparent ; cursor: pointer; }
