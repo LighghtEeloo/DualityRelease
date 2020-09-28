@@ -1,5 +1,8 @@
 # Duality
 
+Game entry: https://lighghteeloo.github.io/DualityRelease/
+
+
 ## Table of Content
 - [Title](#Duality)
 - [Menu](#Table-of-Content)
